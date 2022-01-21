@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexSecTI
-- 👀 I’m interested in ...Security Cloud,Pentesting,Ethichal Hacking,PCI DSS
+- 👀 I’m interested in ...Security Cloud,Pentesting,Ethichal Hacking,PCI DSS,Hardening
 - 🌱 I’m currently learning ...Devsecops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...alexsec487@hotmail.com
